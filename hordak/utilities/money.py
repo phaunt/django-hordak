@@ -20,7 +20,7 @@ def ratio_split(amount, ratios):
 
         Note the returned values sum to the original input of ``10``. If we were to
         do this calculation in a naive fashion then the returned values would likely
-        be ``3.33`` and ``6.66``, which would sum to ``9.99``, thereby loosing
+        be ``3.33`` and ``6.66``, which would sum to ``9.99``, thereby losing
         ``0.01``.
 
     Args:
